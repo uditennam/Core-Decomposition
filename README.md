@@ -6,4 +6,4 @@ Used priority queue abstract data type to find the number of cores in the networ
 
 Code has been attached as a python notebook.
 
-Visualization of the first 30000 nodes along with labels as their node values has been done using Python's graph-tool module. 
+Visualization of the first 30000 nodes along with labels as their node values has been done using Python's graph-tool module and added as .png and .py files. 
